@@ -1,8 +1,12 @@
 # iOSoul
 a technical grade solution for complete iOS development. 
 
-## brief
+## Brief
 iOSoul 是一套工业级的完整的iOS 应用程序开发解决方案.
+
+## Contributes
+Daopr.xu, 
+## References
 
 ## License
 iOSoul 所有组件遵循LGPL 许可证.
