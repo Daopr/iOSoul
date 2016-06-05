@@ -1,11 +1,11 @@
 # iOSoul
-## Brief
-iOSoul 是一套工业级的完整的iOS 应用程序开发解决方案.
 a technical grade solution for complete iOS development. 
+
+#Brief
+iOSoul 是一套工业级的完整的iOS 应用程序开发解决方案.
 
 ## Version
 0.210
-
 
 ## Contributes
 Daopr.xu, 
